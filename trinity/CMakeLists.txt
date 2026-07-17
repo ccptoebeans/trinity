@@ -32,8 +32,6 @@ else()
 endif()
 
 set(PUBLIC_HEADER_FILES
-    Include/IEveBallpark.h
-    Include/IEveReferencePoint.h
     Include/ITr2AnimationUpdater.h
     Include/ITr2BoundingBox.h
     Include/ITr2DebugRenderer.h
@@ -830,8 +828,6 @@ set(_SOURCES
     Font/Tr2SBit.cpp
     Font/Tr2SBit.h
     Font/Tr2SBit_Blue.cpp
-    Include/IEveBallpark.h
-    Include/IEveReferencePoint.h
     Include/ITr2AnimationUpdater.h
     Include/ITr2BoundingBox.h
     Include/ITr2DebugRenderer.h

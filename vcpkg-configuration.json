@@ -29,5 +29,6 @@
                    "openvdb"
           ]
     }
-  ]
+  ],
+  "overlay-ports": ["C:/Users/josephf/Documents/github/overlay-ports"]
 }
