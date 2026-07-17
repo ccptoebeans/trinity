@@ -4,9 +4,8 @@
 #ifndef EveSpaceScene_H
 #define EveSpaceScene_H
 
-
+#include <IEveBallpark.h>
 #include "include/ITr2Scene.h"
-#include "include/IEveBallpark.h"
 #include "TriFrustum.h"
 #include "SpaceObject/EveSpaceObject2.h"
 #include "TriRenderBatch.h"

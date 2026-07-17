@@ -1,5 +1,7 @@
 // Copyright © 2023 CCP ehf.
 
+#include <IEveBallpark.h>
+
 #include "StdAfx.h"
 
 #include "Utilities/BoundingBox.h"
@@ -7,7 +9,6 @@
 #include "Utilities/MatrixUtils.h"
 
 #include "include/ITr2DebugRenderer.h"
-#include "include/IEveBallpark.h"
 #include "Include/TriMath.h"
 #include "Resources/TriGeometryRes.h"
 #include "TriFrustumOrtho.h"

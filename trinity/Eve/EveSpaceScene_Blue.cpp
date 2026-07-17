@@ -1,9 +1,9 @@
 // Copyright © 2023 CCP ehf.
 
+#include <IEveBallpark.h>
+
 #include "StdAfx.h"
 #include "EveSpaceScene.h"
-
-#include "include/IEveBallpark.h"
 
 #include "TriProjection.h"
 #include "TriPythonContext.h"
